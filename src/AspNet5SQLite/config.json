@@ -1,0 +1,6 @@
+﻿{
+  "Production": {
+//    "SqliteConnectionString": "Data Source=C:\\code\\testing\\AspNet5SQLite\\src\\AspNet5SQLite\\dataeventrecords.sqlite",
+    "SqliteConnectionString": "Data Source=dataeventrecords.sqlite"
+  }
+}
